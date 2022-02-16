@@ -18,7 +18,7 @@ Link: https://unity3d.com/get-unity/download/archive
 • Link: https://developer.vuforia.com/ 
 
 GITHUB FILE
-Link: https://github.com/royzel/AR-Project_
+Link: https://github.com/royzel/Marker-less-Augmented-Reality-Unity-and-Vuforia
 
 YOUTUBE TUTORIAL
 Link:  https://youtu.be/82A9DIOojqA
